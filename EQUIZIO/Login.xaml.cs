@@ -35,7 +35,7 @@ namespace EQUIZIO
 
             if (userName != "" && userPassword != "")
             {
-                //TODO check db for login
+                //TODO check database for login
             }
             else
             {
