@@ -8,6 +8,8 @@ The system generates the a new question of a quiz by depending on the result of 
 
 Teachers can use the EQUIZIO for evaluating students effectively, efficiently and perfectly.
 
+**N.B: This project is a university course project (Semester: 9th, Course: Object Oriented Programming 2 - C#)**
+
 ## Screenshots
 
 - Login
